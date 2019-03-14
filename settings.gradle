@@ -1,0 +1,4 @@
+rootProject.name = 'spring_apache_geode'
+include 'server'
+include 'client'
+
