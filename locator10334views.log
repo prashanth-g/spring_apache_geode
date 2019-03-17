@@ -1,0 +1,5 @@
+
+[info 2019/03/30 15:06:57.703 IST <main> tid=0x1] Log opened with new distributed system connection.  View[192.168.0.103(3ae99e9c9cd0835023946be826e290ae:9691)<ec><v0>:1024|0] members: [192.168.0.103(3ae99e9c9cd0835023946be826e290ae:9691)<ec><v0>:1024{lead}]
+
+[info 2019/03/30 15:07:54.251 IST <Cache Server Load Polling Thread> tid=0x48] server count: 1 connected client count: 0 client subscription queue count: 0
+  current servers : 192.168.0.103(3ae99e9c9cd0835023946be826e290ae:9691)<ec><v0>:1024 

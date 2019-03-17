@@ -10,3 +10,7 @@ C
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
 †
 Vserver/src/main/java/com/prashanth/spring/geode/server/locator/LocatorApplication.java,3/6/36cd101b43d90fd006e32cb3e0e95d25623378fa
+ˆ
+Xserver/src/main/java/com/prashanth/spring/geode/server/locator/LocatorConfiguration.java,0/6/06617b51fa1cbc77e6bcf58f3a8367241bd084f9
+E
+locator10334views.log,e/b/eb37e7d9820362de177d2dcfeece587eccec895d
