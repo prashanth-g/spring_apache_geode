@@ -5,3 +5,13 @@
   current servers : 192.168.0.103(3ae99e9c9cd0835023946be826e290ae:9691)<ec><v0>:1024 
 
 [info 2019/03/30 15:10:33.471 IST <main> tid=0x1] Log opened with new distributed system connection.  View[192.168.0.103(724d9a96ce8ed6353c7aba1dffa42468:11566)<ec><v0>:1024|0] members: [192.168.0.103(724d9a96ce8ed6353c7aba1dffa42468:11566)<ec><v0>:1024{lead}]
+
+[info 2019/03/30 15:16:55.223 IST <main> tid=0x1] Log opened with new distributed system connection.  View[192.168.0.103(3e44910ec054ea36efb5bf32ac5bc530:13962)<ec><v0>:1024|0] members: [192.168.0.103(3e44910ec054ea36efb5bf32ac5bc530:13962)<ec><v0>:1024{lead}]
+
+[info 2019/03/30 15:19:23.448 IST <main> tid=0x1] Log opened with new distributed system connection.  View[192.168.0.103(c5ba68cc2c38a44cef5ded4a6244b259:14913)<ec><v0>:1024|0] members: [192.168.0.103(c5ba68cc2c38a44cef5ded4a6244b259:14913)<ec><v0>:1024{lead}]
+
+[info 2019/03/30 15:19:34.531 IST <DM-MemberEventInvoker> tid=0x1b] A new member joined: 192.168.0.103(106642216a22acac92e728845368bf61:15328)<v1>:1025.  View[192.168.0.103(c5ba68cc2c38a44cef5ded4a6244b259:14913)<ec><v0>:1024|1] members: [192.168.0.103(c5ba68cc2c38a44cef5ded4a6244b259:14913)<ec><v0>:1024{lead}, 192.168.0.103(106642216a22acac92e728845368bf61:15328)<v1>:1025]
+
+[info 2019/03/30 15:23:23.919 IST <main> tid=0x1] Log opened with new distributed system connection.  View[192.168.0.103(b9c773648f561bed9252a93f79f576c4:16773)<ec><v0>:1024|0] members: [192.168.0.103(b9c773648f561bed9252a93f79f576c4:16773)<ec><v0>:1024{lead}]
+
+[info 2019/03/30 15:23:39.578 IST <DM-MemberEventInvoker> tid=0x1a] A new member joined: 192.168.0.103(39453458406e600c9e7a9be528d530da:16798)<v1>:1025.  View[192.168.0.103(b9c773648f561bed9252a93f79f576c4:16773)<ec><v0>:1024|1] members: [192.168.0.103(b9c773648f561bed9252a93f79f576c4:16773)<ec><v0>:1024{lead}, 192.168.0.103(39453458406e600c9e7a9be528d530da:16798)<v1>:1025]

@@ -1,4 +1,4 @@
-package com.prashanth.spring.geode.server.locator;
+package com.prashanth.spring.geode.locator;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.gemfire.config.annotation.EnableLocator;

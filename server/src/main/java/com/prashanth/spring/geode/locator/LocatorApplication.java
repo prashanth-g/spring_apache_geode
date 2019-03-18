@@ -1,4 +1,4 @@
-package com.prashanth.spring.geode.server.locator;
+package com.prashanth.spring.geode.locator;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
