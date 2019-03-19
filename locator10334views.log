@@ -15,3 +15,6 @@
 [info 2019/03/30 15:23:23.919 IST <main> tid=0x1] Log opened with new distributed system connection.  View[192.168.0.103(b9c773648f561bed9252a93f79f576c4:16773)<ec><v0>:1024|0] members: [192.168.0.103(b9c773648f561bed9252a93f79f576c4:16773)<ec><v0>:1024{lead}]
 
 [info 2019/03/30 15:23:39.578 IST <DM-MemberEventInvoker> tid=0x1a] A new member joined: 192.168.0.103(39453458406e600c9e7a9be528d530da:16798)<v1>:1025.  View[192.168.0.103(b9c773648f561bed9252a93f79f576c4:16773)<ec><v0>:1024|1] members: [192.168.0.103(b9c773648f561bed9252a93f79f576c4:16773)<ec><v0>:1024{lead}, 192.168.0.103(39453458406e600c9e7a9be528d530da:16798)<v1>:1025]
+
+[info 2019/03/30 15:24:20.395 IST <Cache Server Load Polling Thread> tid=0x47] server count: 2 connected client count: 0 client subscription queue count: 0
+  current servers : 192.168.0.103(39453458406e600c9e7a9be528d530da:16798)<v1>:1025 192.168.0.103(b9c773648f561bed9252a93f79f576c4:16773)<ec><v0>:1024 
