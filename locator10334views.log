@@ -25,3 +25,17 @@
 
 [info 2019/03/30 15:51:31.604 IST <Cache Server Load Polling Thread> tid=0x48] server count: 2 connected client count: 0 client subscription queue count: 0
   current servers : 192.168.0.103(36ce1bd4e6e194e8d4090b3b2272bdfb:26979)<ec><v0>:1024 192.168.0.103(7b54c727cab6bcbbf7885e713ce77a96:27099)<v1>:1025 
+
+[info 2019/03/30 16:18:25.295 IST <main> tid=0x1] Log opened with new distributed system connection.  View[192.168.0.103(3d4dac56fe7ddc4ff650dd152b568ecd:37060)<ec><v0>:1024|0] members: [192.168.0.103(3d4dac56fe7ddc4ff650dd152b568ecd:37060)<ec><v0>:1024{lead}]
+
+[info 2019/03/30 16:18:43.631 IST <DM-MemberEventInvoker> tid=0x1b] A new member joined: 192.168.0.103(5650b87573eae526975d9387e2743789:37143)<v1>:1025.  View[192.168.0.103(3d4dac56fe7ddc4ff650dd152b568ecd:37060)<ec><v0>:1024|1] members: [192.168.0.103(3d4dac56fe7ddc4ff650dd152b568ecd:37060)<ec><v0>:1024{lead}, 192.168.0.103(5650b87573eae526975d9387e2743789:37143)<v1>:1025]
+
+[info 2019/03/30 16:18:55.187 IST <P2P message reader for 192.168.0.103(5650b87573eae526975d9387e2743789:37143)<v1>:1025 shared ordered uid=2 port=63962> tid=0x59] server count: 2 connected client count: 0 client subscription queue count: 1
+  current servers : 192.168.0.103(3d4dac56fe7ddc4ff650dd152b568ecd:37060)<ec><v0>:1024 192.168.0.103(5650b87573eae526975d9387e2743789:37143)<v1>:1025 
+
+[info 2019/03/30 16:25:22.993 IST <main> tid=0x1] Log opened with new distributed system connection.  View[192.168.0.103(d97abd555d1c92fd48b677315041ffd4:39011)<ec><v0>:1024|0] members: [192.168.0.103(d97abd555d1c92fd48b677315041ffd4:39011)<ec><v0>:1024{lead}]
+
+[info 2019/03/30 16:25:32.035 IST <DM-MemberEventInvoker> tid=0x1b] A new member joined: 192.168.0.103(2be1955dedc12143cd66cc2f9401bb62:39034)<v1>:1025.  View[192.168.0.103(d97abd555d1c92fd48b677315041ffd4:39011)<ec><v0>:1024|1] members: [192.168.0.103(d97abd555d1c92fd48b677315041ffd4:39011)<ec><v0>:1024{lead}, 192.168.0.103(2be1955dedc12143cd66cc2f9401bb62:39034)<v1>:1025]
+
+[info 2019/03/30 16:25:48.543 IST <P2P message reader for 192.168.0.103(2be1955dedc12143cd66cc2f9401bb62:39034)<v1>:1025 shared ordered uid=2 port=64105> tid=0x57] server count: 2 connected client count: 0 client subscription queue count: 2
+  current servers : 192.168.0.103(2be1955dedc12143cd66cc2f9401bb62:39034)<v1>:1025 192.168.0.103(d97abd555d1c92fd48b677315041ffd4:39011)<ec><v0>:1024 

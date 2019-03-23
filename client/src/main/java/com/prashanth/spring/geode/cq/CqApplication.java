@@ -7,15 +7,17 @@ import org.springframework.data.gemfire.config.annotation.EnableClusterConfigura
 import org.springframework.data.gemfire.listener.annotation.ContinuousQuery;
 
 import java.util.Optional;
+import java.util.Scanner;
 
 @SpringBootApplication
 @EnableClusterConfiguration
 public class CqApplication {
     public static void main(String[] args) {
         SpringApplication.run(CqApplication.class, args);
+        new Scanner(System.in).next();
     }
 
-    @ContinuousQuery(name = "temperature-readings",
+    @ContinuousQuery(name = "new-temperature-readings",
         query = "select * from /temps where city.contains('San')"
     )
     public void onNewTemperature(CqEvent event) {
