@@ -6,11 +6,19 @@ import org.springframework.data.gemfire.function.annotation.RegionData;
 import org.springframework.stereotype.Component;
 
 import java.util.Map;
+import java.util.stream.Collectors;
 
 @Component
 public class AverageTemperatureFunctionImpl {
 
     @GemfireFunction
-    public void averageTemperature(@RegionData Map<String, Temperature> data) {}
+    public Double averageTemperature(@RegionData Map<String, Temperature> data) {
+        Double average = data.values()
+                        .stream()
+                        .map(Temperature::getTemperature)
+                        .collect(Collectors.averagingDouble(x -> x));
+
+        return average;
+    }
 
 }
