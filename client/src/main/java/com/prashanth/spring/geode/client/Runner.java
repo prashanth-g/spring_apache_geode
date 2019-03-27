@@ -39,7 +39,7 @@ public class Runner implements ApplicationListener<ApplicationReadyEvent> {
         Collection<Double> averages = this.averageTemperatureFunctionInvoker.averageTemperature();
         Double clusterAverageTemp = averages.stream().collect(Collectors.averagingDouble(t -> t));
 
-        log.info("Cluster average "+ clusterAverageTemp);
+        log.info("Cluster average: "+ clusterAverageTemp);
     }
 
     private void insert() {
