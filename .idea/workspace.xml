@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e879c8c2-1a63-4bde-86f6-790374708cb1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/out/production/classes/com/prashanth/spring/geode/client/ClientApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/out/production/classes/com/prashanth/spring/geode/client/Runner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/out/production/classes/com/prashanth/spring/geode/client/TemperatureRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/out/production/classes/com/prashanth/spring/geode/common/Temperature.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/out/production/classes/com/prashanth/spring/geode/cq/CqApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/out/production/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/locator10334view.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/locator10334views.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/out/production/classes/META-INF/spring_apache_geode.server.main.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/out/production/classes/com/prashanth/spring/geode/common/Temperature.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/out/production/classes/com/prashanth/spring/geode/locator/LocatorApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/out/production/classes/com/prashanth/spring/geode/locator/LocatorConfiguration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/out/production/classes/com/prashanth/spring/geode/server/ServerApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/out/production/classes/com/prashanth/spring/geode/server/fn/AverageTemperatureFunctionImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/out/production/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -73,8 +57,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="72">
-                <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <first_editor relative-caret-position="180">
+                <caret line="10" column="76" selection-start-line="10" selection-start-column="76" selection-end-line="10" selection-end-column="76" />
               </first_editor>
               <second_editor />
             </state>
@@ -590,8 +574,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="72">
-            <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <first_editor relative-caret-position="180">
+            <caret line="10" column="76" selection-start-line="10" selection-start-column="76" selection-end-line="10" selection-end-column="76" />
           </first_editor>
           <second_editor />
         </state>
